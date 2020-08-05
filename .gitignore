@@ -1,0 +1,4 @@
+node_modules
+test
+test.html
+这些为不想被git管理的文件
